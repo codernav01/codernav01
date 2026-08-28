@@ -1,133 +1,207 @@
+<h1 align="center">Navjot Singh</h1>
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:E63946&height=240&section=header&text=Hi%20👋,%20I'm%20Navjot%20Singh&fontSize=42&fontColor=ffffff"/>
+<b>Data Analyst</b> • <b>Business Intelligence</b> • <b>SQL & Python Analytics</b>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=E63946&center=true&vCenter=true&lines=Data+Analyst;Data+Scientist;Freelancer;SQL+%7C+Python+%7C+Power+BI"/>
-</p>
-
-<p align="center">
-<b>I don’t just analyze data — I turn it into meaningful insights that drive decisions.</b>
-</p>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:E63946&height=60&section=header&text=🚀%20About%20Me&fontSize=24&fontColor=ffffff"/>
-</p>
-
-<p align="center">
-🤖 Data Analyst & Business Analyst solving real-world problems <br>
-📊 Skilled in SQL, Python, Power BI, Excel <br>
-📈 Focused on data-driven decision-making <br>
-💼 Freelancer – Open to analytics & ML projects
+Building data-driven solutions that help businesses make smarter decisions through
+<b>Data Analytics</b>, <b>SQL</b>, <b>Python</b>, and <b>Business Intelligence</b>.
 </p>
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:E63946&height=60&section=header&text=🧠%20Skills&fontSize=24&fontColor=ffffff"/>
-</p>
+## Professional Summary
 
-<p align="center">
+- Building data-driven solutions through Data Analytics, Business Intelligence, and Data Science.
+- Worked on projects involving business intelligence, crisis analytics, election analytics, environmental analytics, SQL analysis, and research analytics.
+- Experienced in transforming raw and relational datasets into actionable insights using Python, SQL, Power BI, Excel, and Statistics.
+- Built analytical solutions focused on operational performance, customer behaviour, business recovery, regional trends, and decision support.
+- Currently developing an end-to-end **LUCA (Last Universal Common Ancestor)** analytics project combining Python, MySQL, Statistics, and Power BI.
+- Data becomes valuable when it helps people understand what happened, why it happened, and what should happen next.
 
-<b>📊 Data Analysis</b><br>
-NumPy • Pandas • SciPy • EDA • ETL • Feature Engineering<br><br>
+---
 
-<b>🗄️ SQL & Database</b><br>
-MySQL • Query Optimization • Window Functions • Stored Procedures • JOINS • CTEs<br><br>
+## Technical Skills
 
-<b>🔬 Statistics</b><br>
-Hypothesis Testing • A/B Testing • Probability • Regression • Time Series<br><br>
+### Programming
 
-<b>📈 Excel Analytics</b><br>
-VLOOKUP • Pivot Tables • Power Query • Dashboards<br><br>
+- Python • SQL
 
-<b>📉 Visualization</b><br>
-Power BI • DAX • Matplotlib • Seaborn
+### Data Analysis
 
-</p>
+- Pandas • NumPy • Microsoft Excel • Statistics
+- Data Cleaning • EDA • ETL • Feature Engineering
+
+### SQL & Databases
+
+- MySQL • PostgreSQL
+- Joins • CTEs • Window Functions • Subqueries
+- Aggregations • Query Optimization
+
+### Business Intelligence
+
+- Power BI • DAX • Data Modeling
+- KPI Dashboards • Business Reporting • Data Storytelling
+
+### Statistics
+
+- Descriptive Statistics • Hypothesis Testing
+- Correlation Analysis • Regression • Forecasting • Trend Analysis
+
+### Visualization & Tools
+
+- Matplotlib • Seaborn • Plotly
+- Git • GitHub • Jupyter Notebook • VS Code
+
+---
+
+## Featured Projects
+
+### LUCA — Last Universal Common Ancestor *(Ongoing)*
+
+An end-to-end **Bioinformatics & Data Analytics** project focused on consolidating independent LUCA reconstruction datasets and transforming them into a validated analytical and storytelling system.
+
+**Key Analysis**
+
+- Analyzed protein-family consensus and cross-study agreement across independent LUCA studies.
+- Examined Posterior Probability distributions of inferred protein families.
+- Analyzed metabolic pathway completeness and ranked pathways based on available evidence.
+- Investigated relationships between genome size and protein/KO counts.
+- Analyzed divergence-time estimates and associated uncertainty.
+- Examined cofactor and transition-metal prevalence in inferred LUCA biochemistry.
+- Performed Gene Ontology-based functional analysis.
+- Analyzed duplication, horizontal gene transfer, and gene-loss patterns.
+- Compared CRISPR-Cas and ribosomal protein-family evidence.
+- Created agreement metrics to measure consensus across multiple studies.
+
+**Analytics Workflow**
+
+Python → Data Validation → MySQL → SQL Analytics → Statistics → Feature Engineering → Power BI → Data Storytelling
+
+**Technologies**
+
+Python • Pandas • NumPy • SciPy • Statsmodels • Scikit-learn • MySQL • SQL • Power BI • DAX
+
+---
+
+### QuickBite Express — Crisis Recovery & Business Intelligence Analytics
+
+An end-to-end **Business Intelligence** project analyzing QuickBite Express's 2025 business crisis using Python, MySQL, Power BI, and 8 relational datasets.
+
+**Key Analysis**
+
+- Compared pre-crisis and crisis-period business performance.
+- Identified a **69.78% decline in orders** and **52.09% increase in delivery time**.
+- Analyzed cancellations, SLA breaches, and operational performance.
+- Investigated customer behaviour and high-value customer risk.
+- Translated analytical findings into business recovery priorities.
+
+**Business Value**
+
+Transformed operational data into actionable insights around demand decline, delivery performance, customer risk, and crisis recovery.
+
+**Technologies**
+
+Python • MySQL • SQL • Power BI • DAX
+
+**[View Project →](https://github.com/codernav01/QuickBite-Crisis-Recovery-Analytics)**
+
+---
+
+### Election Intelligence Analytics — Tamil Nadu Assembly Elections 
+
+An end-to-end **Election Analytics & Data Storytelling** project using Python, MySQL, and Power BI to analyze electoral patterns across the 2021 and 2026 Tamil Nadu Assembly Elections.
+
+**Key Analysis**
+
+- Compared constituency-level election data across 2021 and 2026.
+- Identified regional shifts and constituency-level winner changes.
+- Analyzed party vote-share patterns and electoral performance.
+- Used SQL CTEs, window functions, joins, and comparative analysis.
+- Built interactive Power BI dashboards for evidence-based election storytelling.
+
+**Business Value**
+
+Transforms complex election data into clear, evidence-based insights that help audiences understand regional trends, constituency changes, and electoral outcomes.
+
+**Technologies**
+
+Python • SQL • MySQL • Power BI • DAX
+
+**[View Project →](https://github.com/codernav01/Election-Intelligence-Analytics)**
+
+---
+
+### AirPure Innovations — Air Pollution Business Intelligence
+
+A **Business Intelligence & Environmental Analytics** project combining multiple datasets covering air quality, health, vehicle growth, and population to identify pollution patterns and market opportunities.
+
+**Key Analysis**
+
+- Integrated 4 real-world datasets using Python and Pandas.
+- Performed data cleaning, EDA, correlation, and severity analysis.
+- Identified pollution hotspots and seasonal trends.
+- Analyzed relationships between pollution and health indicators.
+- Studied population and vehicle growth as potential demand drivers.
+- Developed market-opportunity insights for air-purifier business decisions.
+
+**Business Value**
+
+Connected environmental, health, mobility, and population data to identify pollution patterns, health impacts, and potential business opportunities.
+
+**Technologies**
+
+Python • Pandas • NumPy • Matplotlib • Seaborn
+
+**[View Project →](https://github.com/codernav01/Airpure-Business-Intelligence-Analysis)**
+
+---
+
+## Focus Areas
+
+Applying Data Analytics, Business Intelligence, Statistics, and Data Science to develop practical solutions for business and research problems.
+
+- Data Analytics
+- Business Intelligence
+- SQL Analytics
+- Predictive Analytics
+- Decision Intelligence
+- Operational Analytics
+- Research Analytics
+- Data Storytelling
+- Statistical Analysis
+- AI Applications
+
+---
+
+## Other Projects
+
+- **Airbnb EDA & Data Analytics** — Python, Pandas, NumPy, Matplotlib, Seaborn
+- **Banking Industry Data Analytics** — MySQL, CTEs, Window Functions, UDFs
+- **E-Commerce SQL Analytics** — SQL-based business analysis
+- **AI Resume Screening System** — NLP, TF-IDF, Cosine Similarity
+- **Water Scarcity EDA** — Python-based exploratory analysis
+- **Chipotle Data Cleaning & Analysis** — Python & Pandas
+- **Flight Price Analysis — India** — Python-based EDA
+- **Student Alcohol Data Cleaning** — Pandas, preprocessing & feature engineering
+
+[**View All Projects →**](https://github.com/codernav01?tab=repositories)
+
+---
+
+## Connect
+
+| Platform | Link |
+|----------|------|
+| GitHub | [codernav01](https://github.com/codernav01) |
+| LinkedIn | [Navjot Singh](https://www.linkedin.com/in/navjot-singh-068a52233/) |
+| Email | [navjotaroundai@gmail.com](mailto:navjotaroundai@gmail.com) |
+| Medium | [codecosmosbynav](https://medium.com/@codecosmosbynav) |
+| Quora | [Navjot Singh](https://www.quora.com/profile/Navjot-Singh-3613) |
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:E63946&height=60&section=header&text=🛠️%20Tools&fontSize=24&fontColor=ffffff"/>
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,jupyter&theme=dark" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/PowerBI-0F172A?style=for-the-badge&logo=powerbi&logoColor=E63946"/>
-<img src="https://img.shields.io/badge/Excel-0F172A?style=for-the-badge&logo=microsoft-excel&logoColor=E63946"/>
-<img src="https://img.shields.io/badge/Colab-0F172A?style=for-the-badge&logo=googlecolab&logoColor=E63946"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:E63946&height=60&section=header&text=📊%20GitHub%20Stats&fontSize=24&fontColor=ffffff"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=codernav01&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:E63946&height=60&section=header&text=🔥%20Streak&fontSize=24&fontColor=ffffff"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=codernav01&theme=tokyonight"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:E63946&height=60&section=header&text=📈%20Activity%20Graph&fontSize=24&fontColor=ffffff"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codernav01&theme=github-dark&color=E63946&line=E63946&point=E63946"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:E63946&height=60&section=header&text=✍️%20Writing&fontSize=24&fontColor=ffffff"/>
-</p>
-
-<p align="center">
-I simplify complex data concepts into clear, real-world explanations.<br><br>
-👉 https://medium.com/@codecosmosbynav
-</p>
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:E63946&height=60&section=header&text=📫%20Connect&fontSize=24&fontColor=ffffff"/>
-</p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/navjot-singh-068a52233/">
-<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=E63946"/>
-</a>
-<a href="mailto:nav4459@gmail.com">
-<img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=E63946"/>
-</a>
-<a href="https://medium.com/@codecosmosbynav">
-<img src="https://img.shields.io/badge/Medium-0F172A?style=for-the-badge&logo=medium&logoColor=E63946"/>
-</a>
-<a href="https://www.quora.com/profile/Navjot-Singh-3613">
-<img src="https://img.shields.io/badge/Quora-0F172A?style=for-the-badge&logo=quora&logoColor=E63946"/>
-</a>
-</p>
-
----
-
-<p align="center">
-⭐ <b>Always learning. Always building. Always evolving.</b>
+<b>Data → Analysis → Insight → Decision</b>
 </p>
