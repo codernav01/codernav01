@@ -85,7 +85,7 @@ Combined air-quality, health, vehicle-registration, and population datasets to e
 - Business intelligence and dashboarding
 - Applied statistical analysis
 
-Currently extending this work into **research analytics and data science**, including an end-to-end LUCA bioinformatics analytics project.
+Currently extending this work into **research analytics and data science**, including a **private, ongoing LUCA research analytics project**.
 
 ---
 
