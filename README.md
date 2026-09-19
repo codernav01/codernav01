@@ -45,12 +45,12 @@ Combined air-quality, health, vehicle-registration, and population datasets to e
 
 [View project →](https://github.com/codernav01/Airpure-Business-Intelligence-Analysis)
 
-### AI Resume Screening System
-**Python | NLP | TF-IDF | Cosine Similarity**
+### Banking Analytics
+**MySQL | CTEs | Window Functions | Procedures | UDFs**
 
-Built a rule-assisted text-ranking workflow that compares synthetic resumes with a job description using lexical similarity, skills, education, and experience signals.
+Analyzed a simulated banking schema covering customers, accounts, transactions, branches, and loans to examine customer value, transaction activity, loan exposure, and branch performance.
 
-[View project →](https://github.com/codernav01/AI-Resume-Screening-System)
+[View project →](https://github.com/codernav01/Banking-Industry-Data-Analytics-MYSQL)
 
 ---
 
@@ -79,10 +79,9 @@ Currently extending this work into **research analytics and data science**, incl
 
 ## More Projects
 
-[Banking Analytics](https://github.com/codernav01/Banking-Industry-Data-Analytics-MYSQL) •
+[AI Resume Screening](https://github.com/codernav01/AI-Resume-Screening-System) •
 [E-commerce SQL](https://github.com/codernav01/Ecommerce-SQL-analytics-project) •
-[Flight Price Analysis](https://github.com/codernav01/Flight-Price-Analysis-India-2019) •
-[Water Scarcity EDA](https://github.com/codernav01/Water_Scarcity_EDA.ipynb)
+[Flight Price Analysis](https://github.com/codernav01/Flight-Price-Analysis-India-2019)
 
 ---
 
