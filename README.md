@@ -31,6 +31,18 @@ Analyzed eight relational datasets across customers, restaurants, orders, delive
 
 [View case study →](https://github.com/codernav01/QuickBite-Crisis-Recovery-Analytics)
 
+### Election Intelligence Analytics
+**Python | MySQL | SQL | Power BI**
+
+Built a comparative election analytics workflow across three datasets covering **8,490+ candidate-level records and 234 constituencies**, with Python cleaning, SQL validation, BI modelling, and executive reporting.
+
+- Validated constituency coverage, duplicates, nulls, vote values, turnout ranges, and reference integrity.
+- Analyzed regional patterns, constituency-level winner changes, and vote-share variation.
+- Produced a structured executive report alongside the Python notebook and SQL analytical layer.
+- Maintained a neutral, descriptive analytical scope without prediction or political advocacy.
+
+[View project →](https://github.com/codernav01/Election-Intelligence-Analytics)
+
 ### Airbnb Data Analytics
 **Python | Pandas | NumPy | Matplotlib | Seaborn**
 
@@ -38,19 +50,19 @@ Cleaned and transformed a 10K+ listing dataset, engineered analytical features, 
 
 [View project →](https://github.com/codernav01/Airbnb-data-analytics)
 
-### AirPure Innovations
-**Python | Pandas | EDA | Correlation Analysis**
-
-Combined air-quality, health, vehicle-registration, and population datasets to examine pollution patterns and market-opportunity signals across India.
-
-[View project →](https://github.com/codernav01/Airpure-Business-Intelligence-Analysis)
-
 ### Banking Analytics
 **MySQL | CTEs | Window Functions | Procedures | UDFs**
 
 Analyzed a simulated banking schema covering customers, accounts, transactions, branches, and loans to examine customer value, transaction activity, loan exposure, and branch performance.
 
 [View project →](https://github.com/codernav01/Banking-Industry-Data-Analytics-MYSQL)
+
+### AirPure Innovations
+**Python | Pandas | EDA | Correlation Analysis**
+
+Combined air-quality, health, vehicle-registration, and population datasets to examine pollution patterns and market-opportunity signals across India.
+
+[View project →](https://github.com/codernav01/Airpure-Business-Intelligence-Analysis)
 
 ---
 
