@@ -11,7 +11,12 @@ I build analytical workflows that turn raw business data into validated metrics,
 <p align="center">
 <a href="https://www.linkedin.com/in/navjot-singh-068a52233/">LinkedIn</a> •
 <a href="https://codernav01.github.io/">Portfolio</a> •
-<a href="https://medium.com/@codecosmosbynav">Medium</a>
+<a href="https://medium.com/@codecosmosbynav">Medium</a> •
+<a href="mailto:codernav01@gmail.com">Email</a>
+</p>
+
+<p align="center">
+<b>Open to Data Analyst / BI Analyst opportunities | India / Remote</b>
 </p>
 
 ---
@@ -68,11 +73,11 @@ Combined air-quality, health, vehicle-registration, and population datasets to e
 
 ## Core Skills
 
-**SQL:** MySQL, PostgreSQL, joins, CTEs, window functions, subqueries, aggregations, data validation  
+**SQL:** MySQL, joins, CTEs, window functions, subqueries, aggregations, data validation  
 **Python:** Pandas, NumPy, data cleaning, EDA, feature engineering  
-**BI & Reporting:** Power BI, DAX, data modelling, KPI reporting, dashboard storytelling  
-**Statistics:** Descriptive statistics, correlation, hypothesis testing, regression, trend analysis  
-**Tools:** Excel, Git, GitHub, Jupyter Notebook, VS Code
+**Analytics & Reporting:** KPI analysis, business reporting, data validation, dashboard storytelling  
+**Statistics:** Descriptive statistics, correlation, trend analysis  
+**Tools:** Excel, Power BI, Git, GitHub, Jupyter Notebook, VS Code
 
 ---
 
@@ -85,7 +90,6 @@ Combined air-quality, health, vehicle-registration, and population datasets to e
 - Business intelligence and dashboarding
 - Applied statistical analysis
 
-Currently extending this work into **research analytics and data science**, including a **private, ongoing LUCA research analytics project**.
 
 ---
 
